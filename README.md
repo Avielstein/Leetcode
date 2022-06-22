@@ -1,4 +1,4 @@
-# Practicing coding / problem solving
+# Practice coding / problem solving
 
 Languages:
 Python3 [Advanced]
