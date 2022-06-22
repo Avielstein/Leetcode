@@ -25,11 +25,11 @@ class Solution(object):
             item = password[i]
             if item.isupper():
                 upper=True
-            if item.islower():
+            elif item.islower():
                 lower=True
-            if item.isnumeric():
+            elif item.isnumeric():
                 num=True
-            if item in "!@#$%^&*()-+":
+            elif item in "!@#$%^&*()-+":
                 special=True
             #check for repeat
             
