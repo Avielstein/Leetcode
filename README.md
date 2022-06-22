@@ -1,5 +1,10 @@
-# Leetcode
+# Practicing coding / problem solving
 
-Documenting my quick problem solving practice
+## Languages:
+## Python3 [Advanced]
+## SQL [Intermidiate]
+## JavaScript [TODO]
+## C++ [TODO]
 
-Collection of LeetCode questions - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+
+Solutions for LeetCode questions - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
