@@ -1,10 +1,7 @@
 # Practice coding / problem solving
 
 Languages:
-Python3 [Advanced]
-SQL [Intermidiate]
-JavaScript [TODO]
-C++ [TODO]
+Python3, SQL, JavaScript, C++, Swift
 
 
 Solutions for LeetCode questions - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
