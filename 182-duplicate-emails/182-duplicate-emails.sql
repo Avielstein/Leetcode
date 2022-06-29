@@ -1,4 +1,5 @@
 # Write your MySQL query statement below
+#this works took, probs slightly cleaner
 /*
 Select Email
 From Person
