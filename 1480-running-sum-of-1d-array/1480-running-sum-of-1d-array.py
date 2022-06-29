@@ -6,6 +6,9 @@ class Solution(object):
             a.append(sum(n[:i+1]))
         return a
         '''
+        
+        #this is a slightly faster "dynamic solution"
+        #but its longer to write, we save time by not repeating sum
         a = []
         total = sum(n)
         for i in range(len(n)):
